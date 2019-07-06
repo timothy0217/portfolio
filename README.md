@@ -5,14 +5,13 @@
 
 #### Travel Expert Website: 	
 > #### [GitHub](https://github.com/timothy0217/Travel_Expert_Website)
->####  [Website]( http://timothytsai.com/travel/)
 <br>
 
 ![Screen_shot](https://github.com/timothy0217/Travel_Expert_Website/blob/master/screen_shot3.PNG)
 
 
 <br>
-Travel Expert website is an ongoing threaded workshop where the goal was to create a user friendly website that is appealing to the general public. The website also included a back-end component where it connected to the database using MySQL and PHP. Some of the highlighted feature of the website was a login/logout page, a contact page, and a registration page. My role in this project was to design the front-end from scratch (no templates) and upload to a web server. In addition, I helped my teammates display data which was pulled from MySQL
+Travel Expert website is a workshop for SAIT OOSD program where the goal was to create a user friendly website that is appealing to the general public. The website also included a back-end component where it connected to the database using MySQL and PHP. Some of the highlighted feature of the website was a login/logout page, a contact page, and a registration page. My role in this project was to design the front-end from scratch (no templates) and upload to a web server. In addition, I helped my teammates display data which was pulled from MySQL
 <br>
 
 #### Travel Expert Application : 	
