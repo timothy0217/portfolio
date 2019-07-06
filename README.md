@@ -38,6 +38,4 @@ In the 2nd phase of the threaded workshop, our group had to create a desktop app
 The theme of the Hackathon was “long-ranged Internet of Things” where we had to use sensors associated with a Particle Electron Board that was provided to us. Our group created a functional rescue robot (Rescue Wolverine) that was remoted controlled and placed in areas that a person might not be able to enter and detect movement using PIR motion sensor within a 3 to 5-meter radius. Once a signal was picked up, Wolverine was able to send a response to the website (using jQuery to grab JSON data from the Particle cloud). My role in the team was to create a website, build up a web server and assisted my team members to connect the signal sent by Wolverine and display the real time data on our website. We were one of the few groups that were able to compete all of the required tasks on time. The technologies used was HTML, CSS, JavaScript, C#, C++, Bootstrap and the Particle Electron Kit.
 <br>
 
-#### Landing page for Exergy global petroleum show 2017 :
-> ####  [Website](http://timothytsai.com/landing/)
-<br>
+
