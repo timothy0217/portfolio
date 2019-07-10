@@ -1,7 +1,21 @@
-###  Timothy Tsai   2018    
+##  Timothy Tsai  - Non-work Related Projects 
+
+###    2019    
+
+#### A Rating System for Restaraunt (experiment / ongoing): 	
+> #### [GitHub](https://github.com/timothy0217/rating_system)
+<br>
+Tools : Dockers / Laradoc
+Enviroment: Ubuntu 18.04 , php ^7.2 , Laravel ^5.6
+Language: PHP Laravel Framework (with migration set up)
+<br>
 
 
-## Work / Project Examples
+#### *More demos are avalible upon request
+
+
+
+###   2018    
 
 #### Travel Expert Website: 	
 > #### [GitHub](https://github.com/timothy0217/Travel_Expert_Website)
