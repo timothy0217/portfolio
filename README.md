@@ -1,4 +1,5 @@
 ##  Timothy Tsai  - Non-work Related Projects 
+> #### work related demos are avalible upon request
 
 ###    2019    
 
@@ -11,10 +12,6 @@ Enviroment: Ubuntu 18.04 , php ^7.2 , Laravel ^5.6
 <br>
 Language: PHP Laravel Framework (with migration set up)
 <br>
-
-
-#### *More demos are avalible upon request
-
 
 
 ###   2018    
