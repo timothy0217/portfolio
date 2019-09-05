@@ -1,18 +1,6 @@
 ##  Timothy Tsai  - Non-work Related Projects 
 > #### work related demos are avalible upon request
 
-###    2019    
-
-#### A Rating System for Restaraunt (experiment / ongoing): 	
-> #### [GitHub](https://github.com/timothy0217/rating_system)
-<br>
-Tools : Dockers / Laradoc
-<br>
-Enviroment: Ubuntu 18.04 , php ^7.2 , Laravel ^5.6
-<br>
-Language: PHP Laravel Framework (with migration set up)
-<br>
-
 
 ###   2018    
 
